@@ -1,7 +1,7 @@
 import setuptools
 setuptools.setup(
 
-    name='RLCCC',
+    name='RLxHC',
     version='2.0.0',
     author='Santiago Ulloa',
     author_email='nestor2215739@correo.uis.edu.co',
